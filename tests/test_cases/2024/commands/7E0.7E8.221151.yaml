@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221151
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EM_RPM_1: 100
+  response: '7E8056211510837'
+- expected_values:
+    VOLKSWAGEN_EM_RPM_1: 100
+  response: '7E8056211510838'
+- expected_values:
+    VOLKSWAGEN_EM_RPM_1: 100
+  response: 7E805621151083C
