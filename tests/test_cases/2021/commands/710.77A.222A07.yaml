@@ -1,0 +1,17 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    VOLKSWAGEN_SSB_V: 11.977
+  response: 77A05622A071F29
+- expected_values:
+    VOLKSWAGEN_SSB_V: 12.005
+  response: 77A05622A071F45
+- expected_values:
+    VOLKSWAGEN_SSB_V: 12.061
+  response: 77A05622A071F7D
+- expected_values:
+    VOLKSWAGEN_SSB_V: 12.068
+  response: 77A05622A071F84
+- expected_values:
+    VOLKSWAGEN_SSB_V: 14.014
+  response: 77A05622A07271E
