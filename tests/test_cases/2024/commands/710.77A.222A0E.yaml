@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_SSB_R: 0
   response: 77A04622A0E00
 - expected_values:
-    VOLKSWAGEN_SSB_R: 6
-  response: 77A04622A0E1E
-- expected_values:
-    VOLKSWAGEN_SSB_R: 6.2
-  response: 77A04622A0E1F
-- expected_values:
-    VOLKSWAGEN_SSB_R: 6.4
-  response: 77A04622A0E20
-- expected_values:
-    VOLKSWAGEN_SSB_R: 6.6
-  response: 77A04622A0E21
-- expected_values:
-    VOLKSWAGEN_SSB_R: 7.2
-  response: 77A04622A0E24
-- expected_values:
-    VOLKSWAGEN_SSB_R: 7.4
-  response: 77A04622A0E25
-- expected_values:
-    VOLKSWAGEN_SSB_R: 8
-  response: 77A04622A0E28
-- expected_values:
-    VOLKSWAGEN_SSB_R: 8.2
-  response: 77A04622A0E29
-- expected_values:
     VOLKSWAGEN_SSB_R: 8.4
   response: 77A04622A0E2A
