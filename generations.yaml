@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_T-Cross"
+
 generations:
   - name: "First Generation"
     start_year: 2018
