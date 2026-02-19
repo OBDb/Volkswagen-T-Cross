@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211F1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 4422.5
+  response: 7E8056211F1228D
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 4492.5
+  response: 7E8056211F12319
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 4524.5
+  response: 7E8056211F12359
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 4533.5
+  response: 7E8056211F1236B
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 4535.5
+  response: 7E8056211F1236F
