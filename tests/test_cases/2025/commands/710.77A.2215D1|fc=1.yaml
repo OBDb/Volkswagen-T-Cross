@@ -1,0 +1,6 @@
+command_id: 710.77A.2215D1|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HV_EM_NV_PWR_LIMITATION: 7200
+    VOLKSWAGEN_HV_EM_PWR_LIMITATION: 50
+  response: 77A076215D100000190

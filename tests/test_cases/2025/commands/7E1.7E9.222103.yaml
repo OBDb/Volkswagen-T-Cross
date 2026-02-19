@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222103
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AT_OUTPUT_SPEED: 0
+  response: '7E9056221030000'
