@@ -1,0 +1,5 @@
+command_id: 746.7B0.222621|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_STOP_RECIRC: 225
+  response: 7B00562262100E1

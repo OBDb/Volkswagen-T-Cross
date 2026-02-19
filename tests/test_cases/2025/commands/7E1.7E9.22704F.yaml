@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22704F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ATF_MAX: 101
+  response: 7E90462704F97

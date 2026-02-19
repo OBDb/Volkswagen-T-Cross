@@ -2,7 +2,9 @@ command_id: 7E1.22101A
 test_cases:
 - expected_values:
     VOLKSWAGEN_ODO_TCM_2: 15738
+    VOLKSWAGEN_PQ35_ODO_3: 8011008
   response: 7E90762101A7A3D0000
 - expected_values:
     VOLKSWAGEN_ODO_TCM_2: 15799
+    VOLKSWAGEN_PQ35_ODO_3: 12008704
   response: 7E90762101AB73D0000
