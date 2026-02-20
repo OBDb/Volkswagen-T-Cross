@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 17.5
-  response: 7E80562100200AF
-- expected_values:
-    VOLKSWAGEN_AC_COMP_T: 17.7
-  response: 7E80562100200B1
+    VOLKSWAGEN_AC_COMP_T: 0
+  response: '7E8056210020000'
 - expected_values:
     VOLKSWAGEN_AC_COMP_T: 17.8
   response: 7E80562100200B2
