@@ -22,6 +22,10 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_I_GEAR: 3
   response: 7E90462210F05
 - expected_values:
+    VOLKSWAGEN_GEAR: '6'
+    VOLKSWAGEN_MQB_TCM_I_GEAR: 4
+  response: 7E90462210F06
+- expected_values:
     VOLKSWAGEN_GEAR: '8'
     VOLKSWAGEN_MQB_TCM_I_GEAR: 6
   response: 7E90462210F08
