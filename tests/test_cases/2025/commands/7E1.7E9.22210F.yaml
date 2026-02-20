@@ -5,3 +5,20 @@ test_cases:
     VOLKSWAGEN_GEAR_SHFT: PARK
     VOLKSWAGEN_MQB_TCM_I_GEAR: 0
   response: 7E90462210F02
+- expected_values:
+    VOLKSWAGEN_GEAR: '3'
+    VOLKSWAGEN_GEAR_SHFT: DRIVE
+    VOLKSWAGEN_MQB_TCM_I_GEAR: 1
+  response: 7E90462210F03
+- expected_values:
+    VOLKSWAGEN_GEAR: '4'
+    VOLKSWAGEN_MQB_TCM_I_GEAR: 2
+  response: 7E90462210F04
+- expected_values:
+    VOLKSWAGEN_GEAR: '5'
+    VOLKSWAGEN_MQB_TCM_I_GEAR: 3
+  response: 7E90462210F05
+- expected_values:
+    VOLKSWAGEN_GEAR: '8'
+    VOLKSWAGEN_MQB_TCM_I_GEAR: 6
+  response: 7E90462210F08
