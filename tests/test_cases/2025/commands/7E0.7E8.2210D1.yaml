@@ -1,5 +1,32 @@
 command_id: 7E0.7E8.2210D1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0
+  response: 7E8056210D10000
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.01365
+  response: 7E8056210D10111
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.01995
+  response: 7E8056210D1018F
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.02265
+  response: 7E8056210D101C5
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0521
+  response: 7E8056210D10412
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.07
+  response: 7E8056210D10578
+- expected_values:
     VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.08345
   response: 7E8056210D10685
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.09445
+  response: 7E8056210D10761
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.1517
+  response: 7E8056210D10BDA
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.1683
+  response: 7E8056210D10D26
