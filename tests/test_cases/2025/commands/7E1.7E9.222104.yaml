@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_ATF_T: 34
   response: 7E9046221044A
 - expected_values:
-    VOLKSWAGEN_ATF_T: 94
-  response: '7E90462210486'
+    VOLKSWAGEN_ATF_T: 96
+  response: '7E90462210488'
