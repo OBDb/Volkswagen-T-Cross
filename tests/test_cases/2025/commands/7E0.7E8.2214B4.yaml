@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.2214B4
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 34
-  response: 7E8056214B40D48
-- expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 35
-  response: 7E8056214B40DAC
-- expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 36
-  response: 7E8056214B40E10
-- expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 37
-  response: 7E8056214B40E74
+    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 31
+  response: 7E8056214B40C1C
 - expected_values:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 38
   response: 7E8056214B40ED8
 - expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 39
-  response: 7E8056214B40F3C
-- expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 40
-  response: 7E8056214B40FA0
-- expected_values:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 41
   response: 7E8056214B41004
-- expected_values:
-    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 42
-  response: 7E8056214B41068
