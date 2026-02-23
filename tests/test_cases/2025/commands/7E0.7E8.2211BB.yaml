@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211BB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_CRIT: 4.6
-  response: 7E8056211BB2CEC
+    VOLKSWAGEN_OIL_CRIT: 4.4864
+  response: 7E8056211BB2BD0
 - expected_values:
     VOLKSWAGEN_OIL_CRIT: 5.118
   response: 7E8056211BB31FB
