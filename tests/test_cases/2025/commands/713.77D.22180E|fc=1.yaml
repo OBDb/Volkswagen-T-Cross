@@ -14,6 +14,10 @@ test_cases:
   response: 77D0762180E01001B9E
 - expected_values:
     VOLKSWAGEN_BDD_ACTIVE: 0
+    VOLKSWAGEN_BDD_ODO: 7084
+  response: 77D0762180E01001BAC
+- expected_values:
+    VOLKSWAGEN_BDD_ACTIVE: 0
     VOLKSWAGEN_BDD_ODO: 6743
   response: 77D0762180E05001A57
 - expected_values:
