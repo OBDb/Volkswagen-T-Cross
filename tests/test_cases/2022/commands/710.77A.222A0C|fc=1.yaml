@@ -1,0 +1,26 @@
+command_id: 710.77A.222A0C|fc=1
+test_cases:
+- expected_values:
+    TCROSS_BAT_SOC: 47
+  response: 77A04622A0C2F
+- expected_values:
+    TCROSS_BAT_SOC: 49
+  response: 77A04622A0C31
+- expected_values:
+    TCROSS_BAT_SOC: 51
+  response: 77A04622A0C33
+- expected_values:
+    TCROSS_BAT_SOC: 53
+  response: 77A04622A0C35
+- expected_values:
+    TCROSS_BAT_SOC: 54
+  response: 77A04622A0C36
+- expected_values:
+    TCROSS_BAT_SOC: 55
+  response: 77A04622A0C37
+- expected_values:
+    TCROSS_BAT_SOC: 56
+  response: 77A04622A0C38
+- expected_values:
+    TCROSS_BAT_SOC: 63
+  response: 77A04622A0C3F

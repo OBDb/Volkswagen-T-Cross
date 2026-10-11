@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222131
+test_cases:
+- expected_values:
+    TCROSS_TORQUE_CONVERTER_SLIP: 0
+  response: '7E9056221310000'
+- expected_values:
+    TCROSS_TORQUE_CONVERTER_SLIP: -250
+  response: 7E905622131FF06
+- expected_values:
+    TCROSS_TORQUE_CONVERTER_SLIP: -24
+  response: 7E905622131FFE8

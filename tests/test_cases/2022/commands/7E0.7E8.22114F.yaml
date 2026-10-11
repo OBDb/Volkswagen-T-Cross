@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22114F
+test_cases:
+- expected_values:
+    TCROSS_MISFIRES_C1: 4232
+  response: 7E80562114F1088
+- expected_values:
+    TCROSS_MISFIRES_C1: 4233
+  response: 7E80562114F1089
+- expected_values:
+    TCROSS_MISFIRES_C1: 4234
+  response: 7E80562114F108A

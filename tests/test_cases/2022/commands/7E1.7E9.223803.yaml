@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223803
+test_cases:
+- expected_values:
+    TCROSS_MQB_TCM_BRAKE_P: -261.01
+  response: 7E9056238030B9A
+- expected_values:
+    TCROSS_MQB_TCM_BRAKE_P: -153.46
+  response: 7E9056238030EC4
+- expected_values:
+    TCROSS_MQB_TCM_BRAKE_P: 143.55
+  response: '7E9056238031338'

@@ -1,7 +1,5 @@
 command_id: 7E1.7E9.22210F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_GEAR: '2'
-    VOLKSWAGEN_GEAR_SHFT: PARK
-    VOLKSWAGEN_MQB_TCM_I_GEAR: 0
+    TCROSS_GEAR: '2'
   response: 7E90462210F02

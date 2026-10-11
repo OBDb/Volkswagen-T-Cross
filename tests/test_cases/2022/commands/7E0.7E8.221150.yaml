@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221150
+test_cases:
+- expected_values:
+    TCROSS_MISFIRES_C3: 3392
+  response: 7E8056211500D40
+- expected_values:
+    TCROSS_MISFIRES_C3: 3393
+  response: 7E8056211500D41
+- expected_values:
+    TCROSS_MISFIRES_C3: 3394
+  response: 7E8056211500D42

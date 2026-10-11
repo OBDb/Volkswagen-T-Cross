@@ -1,0 +1,23 @@
+command_id: 7E0.22105C|din=03
+test_cases:
+- expected_values:
+    TCROSS_BRAKE_P: 0
+  response: 7E80562105C0000
+- expected_values:
+    TCROSS_BRAKE_P: 8.1
+  response: 7E80562105C0051
+- expected_values:
+    TCROSS_BRAKE_P: 9.6
+  response: 7E80562105C0060
+- expected_values:
+    TCROSS_BRAKE_P: 11.4
+  response: 7E80562105C0072
+- expected_values:
+    TCROSS_BRAKE_P: 12.6
+  response: 7E80562105C007E
+- expected_values:
+    TCROSS_BRAKE_P: 17.7
+  response: 7E80562105C00B1
+- expected_values:
+    TCROSS_BRAKE_P: 6553.3
+  response: 7E80562105CFFFD

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    TCROSS_PQ35_OIL_T_2: -273.1
+  response: 7E8056211BE0000
+- expected_values:
+    TCROSS_PQ35_OIL_T_2: -273
+  response: 7E8056211BE0001

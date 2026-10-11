@@ -1,0 +1,14 @@
+command_id: 710.77A.222A09|fc=1
+test_cases:
+- expected_values:
+    TCROSS_BAT_I: 0
+  response: 77A07622A0900000000
+- expected_values:
+    TCROSS_BAT_I: 15.614
+  response: 77A07622A0900003CFE
+- expected_values:
+    TCROSS_BAT_I: 51.42
+  response: 77A07622A090000C8DC
+- expected_values:
+    TCROSS_BAT_I: -35.89
+  response: 77A07622A09FFFF73CE

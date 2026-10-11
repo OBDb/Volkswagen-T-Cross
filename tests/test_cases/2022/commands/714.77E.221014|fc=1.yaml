@@ -1,0 +1,26 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    TCROSS_AAT: 23
+  response: '77E0462101492'
+- expected_values:
+    TCROSS_AAT: 23.5
+  response: '77E0462101493'
+- expected_values:
+    TCROSS_AAT: 24
+  response: '77E0462101494'
+- expected_values:
+    TCROSS_AAT: 24.5
+  response: '77E0462101495'
+- expected_values:
+    TCROSS_AAT: 25
+  response: '77E0462101496'
+- expected_values:
+    TCROSS_AAT: 25.5
+  response: '77E0462101497'
+- expected_values:
+    TCROSS_AAT: 26
+  response: '77E0462101498'
+- expected_values:
+    TCROSS_AAT: 26.5
+  response: '77E0462101499'

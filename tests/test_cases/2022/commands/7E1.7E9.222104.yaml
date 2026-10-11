@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    TCROSS_ATF_T_DUAL_CLU: 34
+  response: 7E9046221044A
+- expected_values:
+    TCROSS_ATF_T_DUAL_CLU: 95
+  response: '7E90462210487'

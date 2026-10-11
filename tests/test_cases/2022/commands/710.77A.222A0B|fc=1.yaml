@@ -1,0 +1,32 @@
+command_id: 710.77A.222A0B|fc=1
+test_cases:
+- expected_values:
+    TCROSS_BAT_T: 24
+  response: 77A04622A0B40
+- expected_values:
+    TCROSS_BAT_T: 25
+  response: 77A04622A0B41
+- expected_values:
+    TCROSS_BAT_T: 26
+  response: 77A04622A0B42
+- expected_values:
+    TCROSS_BAT_T: 27
+  response: 77A04622A0B43
+- expected_values:
+    TCROSS_BAT_T: 31
+  response: 77A04622A0B47
+- expected_values:
+    TCROSS_BAT_T: 32
+  response: 77A04622A0B48
+- expected_values:
+    TCROSS_BAT_T: 37
+  response: 77A04622A0B4D
+- expected_values:
+    TCROSS_BAT_T: 40
+  response: 77A04622A0B50
+- expected_values:
+    TCROSS_BAT_T: 41
+  response: 77A04622A0B51
+- expected_values:
+    TCROSS_BAT_T: 47
+  response: 77A04622A0B57

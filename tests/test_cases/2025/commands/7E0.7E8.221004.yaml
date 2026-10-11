@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 0
+    TCROSS_AAT_V2: 0
   response: '7E8056210040000'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: -1.96875
+    TCROSS_AAT_V2: -1.96875
   response: 7E805621004FF04
 - expected_values:
-    VOLKSWAGEN_AAT_V3: -0.00781
+    TCROSS_AAT_V2: -0.00781
   response: 7E805621004FFFF

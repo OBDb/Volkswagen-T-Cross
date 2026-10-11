@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223841
+test_cases:
+- expected_values:
+    TCROSS_ODO_V1: 235628288
+  response: 7E9076238410006728C
+- expected_values:
+    TCROSS_ODO_V1: 420177664
+  response: 7E907623841000672FA
+- expected_values:
+    TCROSS_ODO_V1: 7464704
+  response: '7E90762384100067304'

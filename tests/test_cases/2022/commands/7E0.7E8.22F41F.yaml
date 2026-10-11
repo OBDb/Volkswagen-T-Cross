@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    TCROSS_RUNTM: 0
+  response: 7E80562F41F0000
+- expected_values:
+    TCROSS_RUNTM: 759
+  response: 7E80562F41F02F7
+- expected_values:
+    TCROSS_RUNTM: 2228
+  response: 7E80562F41F08B4

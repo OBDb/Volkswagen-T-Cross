@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211F1
+test_cases:
+- expected_values:
+    TCROSS_PQ35_TRANS_IN_SPD: 1856
+  response: 7E8056211F10E80
+- expected_values:
+    TCROSS_PQ35_TRANS_IN_SPD: 2674.5
+  response: 7E8056211F114E5
+- expected_values:
+    TCROSS_PQ35_TRANS_IN_SPD: 2833
+  response: 7E8056211F11622
+- expected_values:
+    TCROSS_PQ35_TRANS_IN_SPD: 6528
+  response: 7E8056211F13300

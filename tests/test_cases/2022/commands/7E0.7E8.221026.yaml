@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221026
+test_cases:
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 0
+  response: '7E8056210260000'
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 106.3
+  response: '7E8056210260427'
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 150.2
+  response: 7E80562102605DE
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 218.9
+  response: 7E805621026088D
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 256
+  response: 7E8056210260A00
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 264.2
+  response: 7E8056210260A52
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 390.2
+  response: 7E8056210260F3E
+- expected_values:
+    TCROSS_MQB_MAF_1_B1_RAW: 819.2
+  response: '7E8056210262000'
