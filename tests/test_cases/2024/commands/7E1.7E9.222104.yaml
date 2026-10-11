@@ -1,5 +1,5 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ATF_T: 49
+    TCROSS_ATF_T_DUAL_CLU: 49
   response: '7E90462210459'

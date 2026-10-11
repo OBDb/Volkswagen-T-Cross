@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2214B4
+test_cases:
+- expected_values:
+    TCROSS_FUEL_LEVEL_INPUT_V1: 18
+  response: 7E8056214B40708
+- expected_values:
+    TCROSS_FUEL_LEVEL_INPUT_V1: 19
+  response: 7E8056214B4076C
+- expected_values:
+    TCROSS_FUEL_LEVEL_INPUT_V1: 20
+  response: 7E8056214B407D0
+- expected_values:
+    TCROSS_FUEL_LEVEL_INPUT_V1: 21
+  response: 7E8056214B40834
+- expected_values:
+    TCROSS_FUEL_LEVEL_INPUT_V1: 22
+  response: 7E8056214B40898

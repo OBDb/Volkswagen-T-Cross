@@ -1,0 +1,11 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    TCROSS_CLIMATE_T_AFTER_EVAP: 0.333
+  response: 7B00562261201B3
+- expected_values:
+    TCROSS_CLIMATE_T_AFTER_EVAP: 0.333
+  response: 7B00562261201F0
+- expected_values:
+    TCROSS_CLIMATE_T_AFTER_EVAP: 0.666
+  response: 7B0056226120211

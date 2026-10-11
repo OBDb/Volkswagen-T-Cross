@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -184.21
+    TCROSS_MQB_TCM_BRAKE_P: -184.21
   response: 7E9056238030BB8
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: 0.15
+    TCROSS_MQB_TCM_BRAKE_P: 0.15
   response: 7E9056238030F00
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -15.16
+    TCROSS_MQB_TCM_BRAKE_P: -15.16
   response: 7E90562380314FA
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -301.81
+    TCROSS_MQB_TCM_BRAKE_P: -301.81
   response: 7E9056238031B8A

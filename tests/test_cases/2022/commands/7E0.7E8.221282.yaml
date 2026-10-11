@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    TCROSS_EXHAUST_GAS_T_BEFORE_CATALYST: 153.79
+  response: 7E80562128243EA
+- expected_values:
+    TCROSS_EXHAUST_GAS_T_BEFORE_CATALYST: 312.59
+  response: 7E80562128262EE
+- expected_values:
+    TCROSS_EXHAUST_GAS_T_BEFORE_CATALYST: 343.67
+  response: '7E8056212826900'
+- expected_values:
+    TCROSS_EXHAUST_GAS_T_BEFORE_CATALYST: 430.45
+  response: 7E80562128279F3
+- expected_values:
+    TCROSS_EXHAUST_GAS_T_BEFORE_CATALYST: 473.63
+  response: '7E8056212828262'

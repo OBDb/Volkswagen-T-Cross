@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    TCROSS_EOT_ECM: 36.7
+  response: 7E8056211BD0C1A
+- expected_values:
+    TCROSS_EOT_ECM: 62.3
+  response: 7E8056211BD0D1A
+- expected_values:
+    TCROSS_EOT_ECM: 69.4
+  response: 7E8056211BD0D61
+- expected_values:
+    TCROSS_EOT_ECM: 73.1
+  response: 7E8056211BD0D86
+- expected_values:
+    TCROSS_EOT_ECM: 88.5
+  response: 7E8056211BD0E20
+- expected_values:
+    TCROSS_EOT_ECM: 89.7
+  response: 7E8056211BD0E2C

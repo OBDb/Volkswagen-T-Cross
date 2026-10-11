@@ -1,0 +1,11 @@
+command_id: 7E0.221151
+test_cases:
+- expected_values:
+    TCROSS_MISFIRES__CYL__4: 3113
+  response: 7E8056211510C29
+- expected_values:
+    TCROSS_MISFIRES__CYL__4: 3115
+  response: 7E8056211510C2B
+- expected_values:
+    TCROSS_MISFIRES__CYL__4: 3116
+  response: 7E8056211510C2C

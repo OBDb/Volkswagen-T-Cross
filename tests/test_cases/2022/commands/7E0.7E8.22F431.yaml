@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    TCROSS_CLR_DIST: 1624
+  response: 7E80562F4310658
+- expected_values:
+    TCROSS_CLR_DIST: 1643
+  response: 7E80562F431066B

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    TCROSS_AAT_V2: 0
+  response: '7E8056210040000'
+- expected_values:
+    TCROSS_AAT_V2: 0.94531
+  response: '7E8056210040079'
+- expected_values:
+    TCROSS_AAT_V2: -0.82031
+  response: 7E805621004FF97
+- expected_values:
+    TCROSS_AAT_V2: -0.05469
+  response: 7E805621004FFF9

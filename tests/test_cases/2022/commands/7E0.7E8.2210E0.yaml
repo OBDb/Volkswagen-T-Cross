@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    TCROSS_ODO_7E0: 42254
+  response: 7E8076210E00000A50E
+- expected_values:
+    TCROSS_ODO_7E0: 42273
+  response: 7E8076210E00000A521

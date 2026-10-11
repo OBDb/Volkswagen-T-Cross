@@ -1,10 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -57
-    VOLKSWAGEN_AAT_V2: -57
+    TCROSS_AAT_746: 21
   response: 7B0046226098E
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -39
-    VOLKSWAGEN_AAT_V2: -39
+    TCROSS_AAT_746: 39
   response: 7B004622609B2

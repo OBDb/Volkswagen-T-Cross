@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 6886
+    TCROSS_CLR_DIST: 6886
   response: 7E80562F4311AE6
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 6911
+    TCROSS_CLR_DIST: 6911
   response: 7E80562F4311AFF
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 6913
+    TCROSS_CLR_DIST: 6913
   response: 7E80562F4311B01

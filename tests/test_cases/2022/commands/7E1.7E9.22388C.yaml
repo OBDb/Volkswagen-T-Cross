@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.22388C
+test_cases:
+- expected_values:
+    TCROSS_MQB_TCM_IGNITION_CYCLES: 35101
+  response: 7E90562388C1D89
+- expected_values:
+    TCROSS_MQB_TCM_IGNITION_CYCLES: 35357
+  response: 7E90562388C1D8A
+- expected_values:
+    TCROSS_MQB_TCM_IGNITION_CYCLES: 35613
+  response: 7E90562388C1D8B
+- expected_values:
+    TCROSS_MQB_TCM_IGNITION_CYCLES: 35869
+  response: 7E90562388C1D8C
+- expected_values:
+    TCROSS_MQB_TCM_IGNITION_CYCLES: 36125
+  response: 7E90562388C1D8D

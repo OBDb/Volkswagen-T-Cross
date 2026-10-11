@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    TCROSS_MEAN_INJ_QUANTITY: 148.62
+  response: 7E8056211393A0E
+- expected_values:
+    TCROSS_MEAN_INJ_QUANTITY: 163.84
+  response: '7E8056211394000'
+- expected_values:
+    TCROSS_MEAN_INJ_QUANTITY: 173.79
+  response: 7E80562113943E3
+- expected_values:
+    TCROSS_MEAN_INJ_QUANTITY: 199.05
+  response: 7E8056211394DC1

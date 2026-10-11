@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    TCROSS_AT_INPUT_SPEED: 0
+  response: '7E9056221020000'
+- expected_values:
+    TCROSS_AT_INPUT_SPEED: 127.75
+  response: 7E90562210201FF
+- expected_values:
+    TCROSS_AT_INPUT_SPEED: 385
+  response: '7E9056221020604'

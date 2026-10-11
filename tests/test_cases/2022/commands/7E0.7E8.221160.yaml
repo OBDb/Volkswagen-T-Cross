@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    TCROSS_ODO_HD: 41892.931
+  response: 7E807621160027F3C43
+- expected_values:
+    TCROSS_ODO_HD: 41905.676
+  response: 7E807621160027F6E0C
+- expected_values:
+    TCROSS_ODO_HD: 41909.756
+  response: 7E807621160027F7DFC
+- expected_values:
+    TCROSS_ODO_HD: 41912.254
+  response: 7E807621160027F87BE
