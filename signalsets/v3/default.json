@@ -234,6 +234,10 @@
   "signals": [
     {"id": "TCROSS_OIL_WEAR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Oil thermal wear"}
   ]},
+{ "hdr": "714", "rax": "77E", "fcm1": true, "dbg": true, "cmd": {"22": "2294"}, "freq": 30,
+  "signals": [
+    {"id": "TCROSS_DTE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance to empty", "suggestedMetric": "fuelRange"}
+  ]},
 { "hdr": "714", "rax": "77E", "fcm1": true, "dbg": true, "cmd": {"22": "22B8"}, "freq": 30,
   "signals": [
     {"id": "TCROSS_ODO_MILEAGE_HR", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer, mileage, HR", "suggestedMetric": "odometer"}
