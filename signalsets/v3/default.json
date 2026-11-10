@@ -987,9 +987,9 @@
   "signals": [
     {"id": "TCROSS_P_BEFORE_THROTTLE", "path": "Engine", "fmt": { "len": 16, "max": 2559.96, "mul": 21333, "div": 546125, "unit": "unknown" }, "name": "Pressure before throttle valve - sensor measured"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11F0"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11F0"}, "freq": 0.25,
   "signals": [
-    {"id": "TCROSS_ACT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 2, "unit": "bars" }, "name": "Actual turbo boost"}
+    {"id": "TCROSS_ACT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 511, "div": 128, "unit": "kilopascal" }, "name": "Actual turbo boost", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F1"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2023, 2024], "from": 2026 },
   "signals": [
@@ -3121,17 +3121,18 @@
   "signals": [
     {"id": "TCROSS_DRIVING_POS", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Driving position"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210F"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2023], "from": 2026 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2019, "years": [2023], "from": 2026 },
   "signals": [
-    {"id": "TCROSS_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
-          "1": { "description": "First gear",   "value": "1" },
-          "2": { "description": "Second gear",  "value": "2" },
-          "3": { "description": "Third gear",   "value": "3" },
-          "4": { "description": "Fourth gear",  "value": "4" },
-          "5": { "description": "Fifth gear",   "value": "5" },
-          "6": { "description": "Sixth gear",   "value": "6" },
-          "7": { "description": "Seventh gear", "value": "7" },
-          "8": { "description": "Eighth gear",  "value": "8" }
+    {"id": "TCROSS_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "suggestedMetric": "gear", "fmt": {"len": 8, "map": {
+          "1":  { "description": "Reverse",      "value": "REVERSE" },
+          "3":  { "description": "First gear",   "value": "1" },
+          "4":  { "description": "Second gear",  "value": "2" },
+          "5":  { "description": "Third gear",   "value": "3" },
+          "6":  { "description": "Fourth gear",  "value": "4" },
+          "7":  { "description": "Fifth gear",   "value": "5" },
+          "8":  { "description": "Sixth gear",   "value": "6" },
+          "9":  { "description": "Seventh gear", "value": "7" },
+          "10": { "description": "Eighth gear",  "value": "8" }
         }}
     }
   ]},
