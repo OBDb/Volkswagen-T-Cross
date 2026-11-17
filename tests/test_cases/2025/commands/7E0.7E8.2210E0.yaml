@@ -7,5 +7,5 @@ test_cases:
     TCROSS_ODO_7E0: 7167
   response: 7E8076210E000001BFF
 - expected_values:
-    TCROSS_ODO_7E0: 2147483647
+    TCROSS_ODO_7E0: null
   response: 7E8076210E07FFFFFFF
