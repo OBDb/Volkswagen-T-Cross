@@ -541,7 +541,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E0"}, "freq": 30, "dbgfilter": { "to": 2020, "years": [2023], "from": 2026 },
   "signals": [
-    {"id": "TCROSS_ODO_7E0", "path": "Trips", "fmt": { "len": 32, "max": 4000000000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "TCROSS_ODO_7E0", "path": "Trips", "fmt": { "len": 32, "max": 4000000000, "nullmax": 2147483647, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E2"}, "freq": 3600,
   "signals": [
